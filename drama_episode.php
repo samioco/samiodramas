@@ -1,0 +1,17 @@
+<?php
+include('drama_name.php');
+include('../../drama_db.php');
+include('../../drama_vars.php');
+include('../../_header.php');
+include('../../_banner1.php');
+include('../../drama_curr_ep.php');
+include('../../drama_episode_header.php');
+include('../../_banner2.php');
+include('../../drama_episode_video.php');
+include('../../drama_next_ep.php');
+include('../../drama_episode_video_menu.php');
+include('../../_banner3.php');
+include('../../drama_contents.php');
+include('../../_banner4.php');
+include('../../_footer.php');
+?>

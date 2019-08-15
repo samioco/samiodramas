@@ -1,0 +1,10 @@
+﻿insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Haken No Hinkaku","episode","1","","MSN","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Haken No Hinkaku","episode","2","","MSN","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Haken No Hinkaku","episode","3","","MSN","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Haken No Hinkaku","episode","4","","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Haken No Hinkaku","episode","5","","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Haken No Hinkaku","episode","6","","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Haken No Hinkaku","episode","7","","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Haken No Hinkaku","episode","8","","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Haken No Hinkaku","episode","9","","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Haken No Hinkaku","episode","10","","Yahoo","");

@@ -1,0 +1,51 @@
+﻿insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","1","1","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29357323","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","1","2","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29358048","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","1","3","http://www.dailymotion.com/swf/x4k3ka","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","1","4","http://www.dailymotion.com/swf/x4k3ok","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","2","1","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29358692","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","2","2","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29358948","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","2","3","http://www.dailymotion.com/swf/x4k3r5","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","2","4","http://www.dailymotion.com/swf/x4k3u3","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","3","1","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29359664","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","3","2","http://www.dailymotion.com/swf/x4k3wr","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","3","3","http://www.dailymotion.com/swf/x4k3zw","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","3","4","http://www.dailymotion.com/swf/x4k42n","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","4","1","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29361094","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","4","2","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29361264","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","4","3","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29361395","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","4","4","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29361807","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","5","1","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29362044","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","5","2","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29362209","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","5","3","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29408218","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","5","4","http://www.dailymotion.com/swf/x4kfc1","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","6","1","http://www.dailymotion.com/swf/x4kfez","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","6","2","http://www.dailymotion.com/swf/x4kfhj","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","6","3","http://www.dailymotion.com/swf/x4kfjt","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","6","4","http://www.dailymotion.com/swf/x4k1im","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","7","1","http://www.dailymotion.com/swf/x4k1wx","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","7","2","http://www.dailymotion.com/swf/x4k223","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","7","3","http://www.dailymotion.com/swf/x4k25f","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","7","4","http://www.dailymotion.com/swf/x4kfsk","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","8","1","http://www.dailymotion.com/swf/x4k2ab","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","8","2","http://www.dailymotion.com/swf/x4k2di","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","8","3","http://www.dailymotion.com/swf/x4kfxf","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","8","4","http://www.dailymotion.com/swf/x4k2lk","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","9","1","http://www.dailymotion.com/swf/x4k2r7","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","9","2","http://www.dailymotion.com/swf/x4k2wm","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","9","3","http://www.dailymotion.com/swf/x4k2zj","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","9","4","http://www.dailymotion.com/swf/x4k370","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","10","1","http://www.dailymotion.com/swf/x4k3ag","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","10","2","http://www.dailymotion.com/swf/x4k3d6","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","10","3","http://www.dailymotion.com/swf/x4kgf1","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Haken No Hinkaku","episode","10","4","http://www.dailymotion.com/swf/x4kgex","Dailymotion","0");
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,46 @@
+﻿insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","1","1","http://www.dailymotion.com/swf/x7k0x3","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","1","2","http://www.dailymotion.com/swf/x7k0x5","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","1","3","http://www.dailymotion.com/swf/x7k0x7","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","1","4","http://www.dailymotion.com/swf/x7k0xf","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","2","1","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29388625","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","2","2","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29388660","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","2","3","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29389175","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","2","4","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29389234","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","3","1","http://www.dailymotion.com/swf/x7k0xk","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","3","2","http://www.dailymotion.com/swf/x7k0xo","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","3","3","http://www.dailymotion.com/swf/x7k0xv","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","3","4","http://www.dailymotion.com/swf/x7k0xy","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","4","1","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29391990","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","4","2","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29392040","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","4","3","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29392627","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","4","4","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29392669","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","5","1","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29393095","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","5","2","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29393158","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","5","3","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29393661","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","5","4","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29393719","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","6","1","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=9217722","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","6","2","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=9217745","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","6","3","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=9217836","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","6","4","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=9217826","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","7","1","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29395413","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","7","2","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29395456","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","7","3","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29456700","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","7","4","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29457154","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","8","1","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29408272","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","8","2","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29408332","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","8","3","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29408379","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","8","4","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29456605","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","9","1","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29457274","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","9","2","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29457721","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","9","3","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29457809","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","9","4","http://lads.myspace.com/videos/c.swf?t=1&ap=1&m=29458380","Myspace","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","10","1","http://www.dailymotion.com/swf/x7k0y2","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","10","2","http://www.dailymotion.com/swf/x7k0y4","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","10","3","http://www.dailymotion.com/swf/x7k0y7","Dailymotion","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Hotaru no Hikari","episode","10","4","http://www.dailymotion.com/swf/x7k2rv","Dailymotion","1");
+
+
+
+
+
+

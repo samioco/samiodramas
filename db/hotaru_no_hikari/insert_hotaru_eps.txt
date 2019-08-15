@@ -1,0 +1,10 @@
+﻿insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hotaru no Hikari","episode","1","I prefer laying down at home instead of love…Has this dried-up woman ever been in love!?","Dailymotion","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hotaru no Hikari","episode","2","Putting your life on the line for love. Can a dried-up woman handle love mail?!","Myspace","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hotaru no Hikari","episode","3","Is love impossible for a dried-up woman!?","Dailymotion","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hotaru no Hikari","episode","4","Is love and work at the same time impossible for a dried-up woman!?","Myspace","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hotaru no Hikari","episode","5","At last a confession! The god of love has descended!","Myspace","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hotaru no Hikari","episode","6","A dried-up woman's first kiss… the first obstacle of true love!","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hotaru no Hikari","episode","7","A dried-up woman's first sleepover date… Stomach fat!!","Myspace","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hotaru no Hikari","episode","8","Revealing my dried-up womanliness… Can he handle it?!","Myspace","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hotaru no Hikari","episode","9","What happens tomorrow? Love triangle??","Myspace","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hotaru no Hikari","episode","10","Does love allow me to laze around at home?! This strong dried-up woman's conclusion…","Dailymotion","");

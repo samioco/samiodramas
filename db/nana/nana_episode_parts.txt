@@ -1,0 +1,51 @@
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","1","1","http://youtube.com/v/lbJvAITwXUs","Youtube","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","1","2","http://youtube.com/v/6cfZH3imdXk","Youtube","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","1","3","http://youtube.com/v/sKMvCr1fI8w","Youtube","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","1","4","http://youtube.com/v/AoFF_NhIKFw","Youtube","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","1","5","http://youtube.com/v/RVY556mVM6s","Youtube","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","1","6","http://youtube.com/v/JyCu4VTMf4Y","Youtube","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","1","7","http://youtube.com/v/rewsCMgjrxQ","Youtube","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","1","8","http://youtube.com/v/zvKi38IbqnU","Youtube","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","1","9","http://youtube.com/v/9I1GXaV0860","Youtube","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","1","10","http://youtube.com/v/Rzh2WL6R9Mk","Youtube","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","1","11","http://youtube.com/v/w0DJb2AMa2U","Youtube","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","2","1","http://youtube.com/v/lbJvAITwXUs","Youtube","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","2","2","http://youtube.com/v/6cfZH3imdXk","Youtube","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","2","3","http://youtube.com/v/sKMvCr1fI8w","Youtube","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","2","4","http://youtube.com/v/AoFF_NhIKFw","Youtube","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","2","5","http://youtube.com/v/RVY556mVM6s","Youtube","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","2","6","http://youtube.com/v/JyCu4VTMf4Y","Youtube","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","2","7","http://youtube.com/v/rewsCMgjrxQ","Youtube","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","2","8","http://youtube.com/v/zvKi38IbqnU","Youtube","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","2","9","http://youtube.com/v/9I1GXaV0860","Youtube","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","2","10","http://youtube.com/v/Rzh2WL6R9Mk","Youtube","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Nana","movie","2","11","http://youtube.com/v/w0DJb2AMa2U","Youtube","1");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

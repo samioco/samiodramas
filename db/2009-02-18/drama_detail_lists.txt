@@ -1,0 +1,5 @@
+"Proposal Daisakusen","alt_title","Operation Love"
+"Proposal Daisakusen","alt_title","Operation Proposal"
+"Proposal Daisakusen","alt_title","Propose Daisakusen"
+"Proposal Daisakusen","genre","Romance"
+"Proposal Daisakusen","genre","Romantic comedy"

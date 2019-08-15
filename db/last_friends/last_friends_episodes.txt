@@ -1,0 +1,12 @@
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Last Friends","episode","1","The troubles we keep to ourselves: DV, pregnancy, and forbidden love","MSN","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Last Friends","episode","2","A life-and-death secret","MSN","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Last Friends","episode","3","A love that eats away life","MSN","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Last Friends","episode","4","A bond torn apart","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Last Friends","episode","5","A night of shock","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Last Friends","episode","6","A desperate getaway","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Last Friends","episode","7","A harsh reality","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Last Friends","episode","8","Last letter","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Last Friends","episode","9","Your life","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Last Friends","episode","10","Love and death","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Last Friends","episode","11","To the future","Google","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Last Friends","special","1","The love of young people who live in the moment","Dailymotion","");

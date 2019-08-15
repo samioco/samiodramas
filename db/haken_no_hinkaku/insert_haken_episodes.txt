@@ -1,0 +1,12 @@
+﻿insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Zettai Kareshi","episode","1","The robot that bestows love","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Zettai Kareshi","episode","2","Poor love, totally","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Zettai Kareshi","episode","3","Stolen love, totally","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Zettai Kareshi","episode","4","Kissing love, totally","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Zettai Kareshi","episode","5","Jealous love, totally","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Zettai Kareshi","episode","6","Scrapped","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Zettai Kareshi","episode","7","A love that touched her","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Zettai Kareshi","episode","8","A new robot love","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Zettai Kareshi","episode","9","Missing you","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Zettai Kareshi","episode","10","I won't let you have her","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Zettai Kareshi","episode","11","Miracle","Yahoo","");
+

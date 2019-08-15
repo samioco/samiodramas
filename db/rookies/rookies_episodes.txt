@@ -1,0 +1,11 @@
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Rookies","episode","1","The heated battle begins between delinquents and their new teacher!","MSN","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Rookies","episode","2","Believe in your dreams!","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Rookies","episode","3","Things worth protecting until the end.","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Rookies","episode","4","Starting from rock-bottom.","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Rookies","episode","5","If you lose, it's all over... And then, the last man!","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Rookies","episode","6","Tonight the second chapter starts: A miraculous victory!? And then, a tearful departure…","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Rookies","episode","7","Unforgivable defeat","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Rookies","episode","8","A far-off dream... A victory for tomorrow","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Rookies","episode","9","Sordid pride","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Rookies","episode","10","Final Chapter, Part 1: The last summer... And then...	","Imeem","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Rookies","episode","11","Final Chapter, Part 2: Farewell to a most beloved teacher...","Yahoo","");

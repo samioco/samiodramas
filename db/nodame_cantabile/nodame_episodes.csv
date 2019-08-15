@@ -1,0 +1,13 @@
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Nodame Cantabile","episode","1","Rhapsody of the weird pianist vs. the self-centered conductor","Myspace","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Nodame Cantabile","episode","2","An orchestra of failing freaks! The start of trouble!?","Myspace","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Nodame Cantabile","episode","3","The puny orchestra's in a pinch!! Can love rescue the poor?","Myspace","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Nodame Cantabile","episode","4","A successful kiss!? The moving battle of a regular perfomance!!","Myspace","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Nodame Cantabile","episode","5","Goodbye Maestro! The love battle of school festival orchestras!!","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Nodame Cantabile","episode","6","Goodbye S Orchestra!! A tearful farewell ceremony and a two-piano performance of love!","Myspace","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Nodame Cantabile","episode","7","The start of a new orchestra! A storm on the horizon for a romance passing by!?","Myspace","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Nodame Cantabile","episode","8","The first battle for a new orchestra! A romance that wavers in overcoming trauma.","Myspace","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Nodame Cantabile","episode","9","Competition vs. studying abroad! Could the decision mean farewell!?","Myspace","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Nodame Cantabile","episode","10","A competition of ups and downs! A final chapter of confession and tears!!","Myspace","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Nodame Cantabile","episode","11","Goodbye Nodame!! A tearful Christmas performance","Myspace","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Nodame Cantabile","special","1","Nodame Cantabile Shinshun Special in Europe","Daily Motion","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Nodame Cantabile","special","2","Nodame Cantabile Shinshun Special in Europe","Daily Motion","");

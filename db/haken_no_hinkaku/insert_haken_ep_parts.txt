@@ -1,0 +1,48 @@
+﻿insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","1","1","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10095820","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","1","2","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10095852","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","1","3","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10095973","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","1","4","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10095985","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","2","1","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10096015","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","2","2","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10096058","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","2","3","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10096125","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","2","4","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10096175","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","3","1","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10096318","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","3","2","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10096247","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","3","3","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10096419","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","3","4","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10098504","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","4","1","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10096504","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","4","2","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10096609","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","4","3","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10097081","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","4","4","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10096989","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","5","1","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10097184","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","5","2","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10097291","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","5","3","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10097312","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","5","4","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10097390","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","6","1","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10097440","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","6","2","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10097475","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","6","3","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10097500","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","6","4","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10097540","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","7","1","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10097586","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","7","2","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10097606","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","7","3","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10097624","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","7","4","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10097649","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","8","1","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10097709","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","8","2","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10097754","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","8","3","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10097772","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","9","1","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10097884","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","9","2","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10097942","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","9","3","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10097950","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","10","1","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10097980","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","10","2","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10098004","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","10","3","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10098044","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","11","1","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10102541","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","11","2","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10098080","Yahoo","0");
+insert into episode_parts (drama_name_eng,eps_type,eps_num,part_num,video_link,video_source,last) values("Zettai Kareshi","episode","11","3","http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?id=10098092","Yahoo","1");
+
+
+
+
+
+
+
+

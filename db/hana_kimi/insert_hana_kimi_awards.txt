@@ -1,0 +1,4 @@
+﻿insert into awards (award_name,category,winner,related_drama) values ("54th Television Drama Academy Awards","Best Drama","Hana Kimi","Hana Kimi");
+insert into awards (award_name,category,winner,related_drama) values ("54th Television Drama Academy Awards","Best Actress","Horikita Maki","Hana Kimi");
+insert into awards (award_name,category,winner,related_drama) values ("54th Television Drama Academy Awards","Best Supporting Actor","Ikuta Toma","Hana Kimi");
+insert into awards (award_name,category,winner,related_drama) values ("TVnavi Magazine 2007 Drama Awards","Best Supporting Actor","Oguri Shun","Hana Kimi");

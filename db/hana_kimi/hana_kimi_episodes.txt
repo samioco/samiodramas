@@ -1,0 +1,13 @@
+﻿insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hana Kimi","episode","1","Getting into the Forbidden Boys' Dormitory","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hana Kimi","episode","2","Wrong Kiss","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hana Kimi","episode","3","Bizarre Big Brother","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hana Kimi","episode","4","Dangerous Three-Person Room","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hana Kimi","episode","5","Hopeless Coast Story","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hana Kimi","episode","6","The Beginning of Stormy Love","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hana Kimi","episode","7","Suddenly in Bed","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hana Kimi","episode","8","I Like Mizuki","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hana Kimi","episode","9","Exposed!","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hana Kimi","episode","10","Depend On Me","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hana Kimi","episode","11","I'll Jump for You","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hana Kimi","episode","12","We'll Protect You","Yahoo","");
+insert into episodes (drama_name_eng,eps_type,eps_num,eps_title,video_source,video_link) values("Hana Kimi","special","1","Hana Kimi Special","Google","");

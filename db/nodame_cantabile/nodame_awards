@@ -1,0 +1,8 @@
+insert into awards (award_name,category,winner,related_drama) values ("51st Television Drama Academy Awards","Best Drama","Nodame Cantabile","Nodame Cantabile");
+insert into awards (award_name,category,winner,related_drama) values ("51st Television Drama Academy Awards","Best Actress","Ueno Juri","Nodame Cantabile");
+insert into awards (award_name,category,winner,related_drama) values ("51st Television Drama Academy Awards","Best Director","Takeuchi Hideki","Nodame Cantabile");
+insert into awards (award_name,category,winner,related_drama) values ("51st Television Drama Academy Awards","Best Musical Arrangement","Takeuchi Hideki","Nodame Cantabile");
+insert into awards (award_name,category,winner,related_drama) values ("51st Television Drama Academy Awards","Best Opening","Hattori Takayuki","Nodame Cantabile");
+insert into awards (award_name,category,winner,related_drama) values ("2nd Seoul Drama Awards","Best Mini-series","Nodame Cantabile","Nodame Cantabile");
+insert into awards (award_name,category,winner,related_drama) values ("2nd Seoul Drama Awards","Best Director","Takeuchi Hideki","Nodame Cantabile");
+insert into awards (award_name,category,winner,related_drama) values ("2nd Seoul Drama Awards","Best Music","Nodame Cantabile","Nodame Cantabile");
